@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75" started-at="2023-04-18T16:04:54 IST" finished-at="2023-04-18T16:04:54 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75" started-at="2023-04-18T16:04:54 IST" finished-at="2023-04-18T16:04:54 IST">
+      <class name="TestNGPractice">
+        <test-method status="PASS" signature="set()[pri:0, instance:TestNGPractice@5579bb86]" name="set" is-config="true" duration-ms="15" started-at="2023-04-18T16:04:54 IST" finished-at="2023-04-18T16:04:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method status="PASS" signature="logIn()[pri:0, instance:TestNGPractice@5579bb86]" name="logIn" is-config="true" duration-ms="1" started-at="2023-04-18T16:04:54 IST" finished-at="2023-04-18T16:04:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="abc()[pri:0, instance:TestNGPractice@5579bb86]" name="abc" duration-ms="6" started-at="2023-04-18T16:04:54 IST" finished-at="2023-04-18T16:04:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:TestNGPractice@5579bb86]" name="logOut" is-config="true" duration-ms="1" started-at="2023-04-18T16:04:54 IST" finished-at="2023-04-18T16:04:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="logIn()[pri:0, instance:TestNGPractice@5579bb86]" name="logIn" is-config="true" duration-ms="1" started-at="2023-04-18T16:04:54 IST" finished-at="2023-04-18T16:04:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="bcd()[pri:0, instance:TestNGPractice@5579bb86]" name="bcd" duration-ms="2" started-at="2023-04-18T16:04:54 IST" finished-at="2023-04-18T16:04:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcd -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:TestNGPractice@5579bb86]" name="logOut" is-config="true" duration-ms="1" started-at="2023-04-18T16:04:54 IST" finished-at="2023-04-18T16:04:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="cde()[pri:0, instance:TestNGPractice@5579bb86]" name="cde" duration-ms="1" started-at="2023-04-18T16:04:54 IST" finished-at="2023-04-18T16:04:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cde -->
+        <test-method status="PASS" signature="logIn()[pri:0, instance:TestNGPractice@5579bb86]" name="logIn" is-config="true" duration-ms="0" started-at="2023-04-18T16:04:54 IST" finished-at="2023-04-18T16:04:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:TestNGPractice@5579bb86]" name="logOut" is-config="true" duration-ms="0" started-at="2023-04-18T16:04:54 IST" finished-at="2023-04-18T16:04:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestNGPractice@5579bb86]" name="close" is-config="true" duration-ms="0" started-at="2023-04-18T16:04:54 IST" finished-at="2023-04-18T16:04:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestNGPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
